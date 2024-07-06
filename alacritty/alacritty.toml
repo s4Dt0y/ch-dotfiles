@@ -1,0 +1,17 @@
+import = [
+"~/.config/alacritty/themes/themes/tokyo-night.toml",
+]
+
+[ env ]
+TERM = "xterm-256color"
+
+[window]
+padding = { x = 10, y = 0 }
+decorations = "None"
+opacity = 0.90
+decorations_theme_variant = "Dark"
+
+[font]
+normal.family = "0xProto Nerd Font"
+size = 10
+
